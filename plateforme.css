@@ -3,7 +3,7 @@
 /* -------------- GENERAL CUSTOM CSS -------------- */
 
 body {
-   font-size: 22px;
+   font-size: 100%;
    -webkit-text-size-adjust: 100%;
    font-variant-ligatures: none;
    -webkit-font-variant-ligatures: none;
