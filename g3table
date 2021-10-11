@@ -1,0 +1,942 @@
+<table>
+<thead>
+  <tr>
+    <th>Nom</th>
+    <th>Prénom</th>
+    <th>Organisation</th>
+    <th>Adresse email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>BARTHASSAT</td>
+    <td>Maxime</td>
+    <td>UNES</td>
+    <td>maxime.barthassat@vss-unes.ch</td>
+  </tr>
+  <tr>
+    <td>CASTIAUX</td>
+    <td>Annick</td>
+    <td>UNamur</td>
+    <td>annick.castiaux@unamur.be</td>
+  </tr>
+  <tr>
+    <td>CHENETTE</td>
+    <td>Madeleine</td>
+    <td>Organisation de Coopération et de Développement Économiques (OCDE)</td>
+    <td>madeleine.chenette@international.gc.ca</td>
+  </tr>
+  <tr>
+    <td>COLIN</td>
+    <td>Christine</td>
+    <td>Ecole de Santé Publique de l’Université de Montréal / CIFA</td>
+    <td>christine.colin@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>COUCK</td>
+    <td>Dylan</td>
+    <td>Université de Gand</td>
+    <td>couck.dylan@gmail.com</td>
+  </tr>
+  <tr>
+    <td>DETEMMERMAN</td>
+    <td>Simon</td>
+    <td>ULB</td>
+    <td>simon.detemmerman@ulb.be</td>
+  </tr>
+  <tr>
+    <td>FRANJIÉ</td>
+    <td>Lynne</td>
+    <td>Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres)</td>
+    <td>lynne.franjie@hceres.fr</td>
+  </tr>
+  <tr>
+    <td>GIAMBATTISTA</td>
+    <td>Ravano</td>
+    <td>Université des Sciences appliqués et des arts de la Suisse du Sud</td>
+    <td>giambattista.ravano@supsi.ch</td>
+  </tr>
+  <tr>
+    <td>LASSONDE</td>
+    <td>Maryse</td>
+    <td>Conseil supérieur de l’Éducation (Québec)</td>
+    <td>maryse.lassonde@cse.gouv.qc.ca</td>
+  </tr>
+  <tr>
+    <td>LE FORT</td>
+    <td>Geneviève</td>
+    <td>HES-SO</td>
+    <td>genevieve.lefort@hes-so.ch</td>
+  </tr>
+  <tr>
+    <td>LEROUX</td>
+    <td>Drame</td>
+    <td>Université Gaston Berger de Saint-Louis (Sénégal)</td>
+    <td>leroux.drame@ucad.edu.sn</td>
+  </tr>
+  <tr>
+    <td>POSTIAUX</td>
+    <td>Nadine</td>
+    <td>ULB</td>
+    <td>nadine.postiaux@ulb.be</td>
+  </tr>
+  <tr>
+    <td>LEROUX</td>
+    <td>Tony</td>
+    <td>Université de Montréal</td>
+    <td>tony.leroux@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>MAILHOT</td>
+    <td>Claude</td>
+    <td>Université de Montréal</td>
+    <td>claude.mailhot@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>SCHAUB</td>
+    <td>Mallory</td>
+    <td>Université de Genève</td>
+    <td>mallory.schaub@unige.ch</td>
+  </tr>
+  <tr>
+    <td>CANTER</td>
+    <td>Sandrine</td>
+    <td>ULB</td>
+    <td>sandrine.canter@ulb.be</td>
+  </tr>
+  <tr>
+    <td>CAUWE</td>
+    <td>Jade</td>
+    <td>ULB</td>
+    <td>jade.cauwe@ulb.be</td>
+  </tr>
+  <tr>
+    <td>FORREST</td>
+    <td>Marion</td>
+    <td>ULB</td>
+    <td>marion.forrest@ulb.be</td>
+  </tr>
+  <tr>
+    <td>KWINTNER</td>
+    <td>Lucie</td>
+    <td>ULB</td>
+    <td>lucie.kwintner@ulb.be</td>
+  </tr>
+  <tr>
+    <td>LISMONDE</td>
+    <td>Marie</td>
+    <td>ULB</td>
+    <td>marie.lismonde@ulb.be</td>
+  </tr>
+  <tr>
+    <td>AMEZ-DROZ</td>
+    <td>Sophie</td>
+    <td>HEP-VS</td>
+    <td>sophie.amez-droz@hepvs.ch</td>
+  </tr>
+  <tr>
+    <td>ANDRIAMAMPIANINA</td>
+    <td>Tianarilalaina Tantely</td>
+    <td>Université d'Antananarivo</td>
+    <td>tantelylalaina@gmail.com</td>
+  </tr>
+  <tr>
+    <td>AUBERT</td>
+    <td>Angeline</td>
+    <td>UMONS</td>
+    <td>angeline.aubert@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>AUBERT</td>
+    <td>Magali</td>
+    <td>INRAE</td>
+    <td>magali.aubert@inrae.fr</td>
+  </tr>
+  <tr>
+    <td>BANTERLA</td>
+    <td>Julien</td>
+    <td>Haute Ecole de la ville de Liège (HEL)</td>
+    <td>julien.banterla@gmail.com</td>
+  </tr>
+  <tr>
+    <td>BARBAZA SIMONOT</td>
+    <td>Sophie</td>
+    <td>HES-SO</td>
+    <td>sophie.barbazas@hes-so.ch</td>
+  </tr>
+  <tr>
+    <td>BARRAS</td>
+    <td>Hervé</td>
+    <td>Haute Ecole Pédagogique du Valais</td>
+    <td>herve.barras@hepvs.ch</td>
+  </tr>
+  <tr>
+    <td>BÉLIVEAU</td>
+    <td>Louise</td>
+    <td>Université de Montréal</td>
+    <td>louise.beliveau@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>BELLAL</td>
+    <td>Selma</td>
+    <td>Feprosoc</td>
+    <td>selma.bellal@segec.be</td>
+  </tr>
+  <tr>
+    <td>BERNIER</td>
+    <td>Anne-Mireille</td>
+    <td>Université de Montréal</td>
+    <td>anne-mireille.bernier@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>BÉRUBÉ</td>
+    <td>Virginie</td>
+    <td>Commission d'évaluation de l'enseignement collégial</td>
+    <td>virginie.berube@ceec.gouv.qc.ca</td>
+  </tr>
+  <tr>
+    <td>BONTEMS</td>
+    <td>Thierry</td>
+    <td>CNRS PACTE</td>
+    <td>thierry.bontems@umrpacte.fr</td>
+  </tr>
+  <tr>
+    <td>BOUCHEZ</td>
+    <td>Arielle</td>
+    <td>FWB-Enseignement de promotion sociale</td>
+    <td>arielle.bouchez@cfwb.be</td>
+  </tr>
+  <tr>
+    <td>BOUMAHDI</td>
+    <td>Abdelaziz</td>
+    <td>Université Mohammed V de Rabat</td>
+    <td>a.boumahdi@um5s.net.ma</td>
+  </tr>
+  <tr>
+    <td>BRION</td>
+    <td>Laurence</td>
+    <td>Haute Ecole Léonard de VINCI</td>
+    <td>laurence.brion@vinci.be</td>
+  </tr>
+  <tr>
+    <td>BROTCORNE</td>
+    <td>Magali</td>
+    <td>UMONS</td>
+    <td>magali.brotcorne@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>CALMET</td>
+    <td>Michel</td>
+    <td>Université Aix-Marseille - Master Qualité</td>
+    <td>michel.calmet@gmail.com</td>
+  </tr>
+  <tr>
+    <td>CAPPELIEZ</td>
+    <td>Vincent</td>
+    <td>HELHa</td>
+    <td>vincent.cappeliez@helha.be</td>
+  </tr>
+  <tr>
+    <td>CARLEI</td>
+    <td>Christophe</td>
+    <td>Université de Genève, Pôle de soutien à l'enseignement et l'apprentissage</td>
+    <td>christophe.carlei@unige.ch</td>
+  </tr>
+  <tr>
+    <td>CARRETTE</td>
+    <td>Marie-Ève</td>
+    <td>Université Saint-Louis</td>
+    <td>marie-eve.carrette-bouchat@usaintlouis.be</td>
+  </tr>
+  <tr>
+    <td>CELLULE QUALITÉ</td>
+    <td>HELHa</td>
+    <td>HELHa</td>
+    <td>cellule.qualite@helha.be</td>
+  </tr>
+  <tr>
+    <td>CHARLIER</td>
+    <td>Bernadette</td>
+    <td>Université de Fribourg</td>
+    <td>bernadette.charlier@unifr.ch</td>
+  </tr>
+  <tr>
+    <td>CHASSÉ</td>
+    <td>Marion</td>
+    <td>Université de Montréal</td>
+    <td>marion.chasse@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>CHAUVET-MAURER</td>
+    <td>Jessica</td>
+    <td>HEFP</td>
+    <td>jessica.chauvet@hefp.swiss</td>
+  </tr>
+  <tr>
+    <td>CHEVILLARD</td>
+    <td>Julien</td>
+    <td>HES-SO</td>
+    <td>julien.chevillard@hes-so.ch</td>
+  </tr>
+  <tr>
+    <td>COETSIER</td>
+    <td>Christophe</td>
+    <td>Haute Ecole Léonard de Vinci</td>
+    <td>christophe.coetsier@vinci.be</td>
+  </tr>
+  <tr>
+    <td>CONSIGLIO</td>
+    <td>Isabelle</td>
+    <td>UMONS</td>
+    <td>isabelle.consiglio@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>DAMBROISE</td>
+    <td>Catherine</td>
+    <td>Haute école Léonard de Vinci</td>
+    <td>catherine.dambroise@vinci.be</td>
+  </tr>
+  <tr>
+    <td>DE BOM VAN DRIESSCHE</td>
+    <td>Christophe</td>
+    <td>Haute Ecole Léonard de Vinci</td>
+    <td>christophe.debom@vinci.be</td>
+  </tr>
+  <tr>
+    <td>DE CLERCQ</td>
+    <td>Inès</td>
+    <td>HE2B</td>
+    <td>ideclercq@he2b.be</td>
+  </tr>
+  <tr>
+    <td>DE FRANCHI MANDSCHEFF</td>
+    <td>Ahidoba</td>
+    <td>Université de Genève</td>
+    <td>ahidoba.defranchi@unige.ch</td>
+  </tr>
+  <tr>
+    <td>DE THIER</td>
+    <td>Alexandra</td>
+    <td>CPSI</td>
+    <td>a.dethier@cpsi.be</td>
+  </tr>
+  <tr>
+    <td>DEFLANDRE</td>
+    <td>Dimitri</td>
+    <td>CPEONS</td>
+    <td>dimitri.deflandre@cpeons.be</td>
+  </tr>
+  <tr>
+    <td>DELFORGE</td>
+    <td>Catherine</td>
+    <td>Université Saint-Louis - Bruxelles</td>
+    <td>catherine.delforge@usaintlouis.be</td>
+  </tr>
+  <tr>
+    <td>DELWICHE</td>
+    <td>Cybèle</td>
+    <td>Haute Ecole Léonard de Vinci</td>
+    <td>cybele.delwiche@vinci.be</td>
+  </tr>
+  <tr>
+    <td>DEPIREUX</td>
+    <td>Romain</td>
+    <td>ULB</td>
+    <td>romain.depireux@ulb.ac.be</td>
+  </tr>
+  <tr>
+    <td>DESOUTTER</td>
+    <td>Jean-François</td>
+    <td>ULB</td>
+    <td>jean-francois.desoutter@ulb.be</td>
+  </tr>
+  <tr>
+    <td>DI STAZIO</td>
+    <td>Damiano</td>
+    <td>UMONS</td>
+    <td>damiano.distazio@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>DION</td>
+    <td>Véronique</td>
+    <td>Commission d'évaluation de l'enseignement collégial</td>
+    <td>veronique.dion@ceec.gouv.qc.ca</td>
+  </tr>
+  <tr>
+    <td>DULIERE</td>
+    <td>Isabelle</td>
+    <td>HENALLUX</td>
+    <td>isaduliere@gmail.com</td>
+  </tr>
+  <tr>
+    <td>DUNEMANN</td>
+    <td>Cathy</td>
+    <td>Haute école Léonard de Vinci</td>
+    <td>cathy.dunemann@vinci.b</td>
+  </tr>
+  <tr>
+    <td>DURIEUX</td>
+    <td>Aline</td>
+    <td>HE2B</td>
+    <td>adurieux@he2b.be</td>
+  </tr>
+  <tr>
+    <td>EL MOUFFARIJ</td>
+    <td>Wiame</td>
+    <td>ENSIAS-ENSAM ,Université Mohammed V de Rabat</td>
+    <td>wiame_elmoufarrij@um5.ac.ma</td>
+  </tr>
+  <tr>
+    <td>EMPLIT</td>
+    <td>Philippe</td>
+    <td>ULB</td>
+    <td>philippe.emplit@ulb.be</td>
+  </tr>
+  <tr>
+    <td>FALLA</td>
+    <td>Marie</td>
+    <td>HELMo</td>
+    <td>m.falla@helmo.be</td>
+  </tr>
+  <tr>
+    <td>FERREIRA</td>
+    <td>Laëtitia</td>
+    <td>Université de Franche-Comté</td>
+    <td>laetitia.ferreira@univ-fcomte.fr</td>
+  </tr>
+  <tr>
+    <td>FERREIRA</td>
+    <td>Ema</td>
+    <td>Université de Montréal</td>
+    <td>ema.ferreira@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>FREYBURGER</td>
+    <td>Véronique</td>
+    <td>Université de Franche-Comté</td>
+    <td>veronique.freyburger@univ-fcomte.fr</td>
+  </tr>
+  <tr>
+    <td>GALIANA</td>
+    <td>Laura</td>
+    <td>Université de Montréal</td>
+    <td>laura.galiana@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>GARNIER</td>
+    <td>Alain</td>
+    <td>Université Laval</td>
+    <td>alain.garnier@gch.ulaval.ca</td>
+  </tr>
+  <tr>
+    <td>GASPERAT</td>
+    <td>Moïra</td>
+    <td>IEPSCF Morlanwelz</td>
+    <td>moira.gasperat@ineps-mlz.be</td>
+  </tr>
+  <tr>
+    <td>GEERTS</td>
+    <td>Jennifer</td>
+    <td>UNamur</td>
+    <td>jennifer.geerts@unamur.be</td>
+  </tr>
+  <tr>
+    <td>GÉLINAS</td>
+    <td>Malorie</td>
+    <td>Université de Sherbrooke</td>
+    <td>malorie.gelinas@usherbrooke.ca</td>
+  </tr>
+  <tr>
+    <td>GÉRARD</td>
+    <td>Véronique</td>
+    <td>Hénallux</td>
+    <td>veroniquegerard713@gmail.com</td>
+  </tr>
+  <tr>
+    <td>GREIMERS</td>
+    <td>Dimitri</td>
+    <td>HELMo</td>
+    <td>d.greimers@helmo.be</td>
+  </tr>
+  <tr>
+    <td>GREVESSE</td>
+    <td>Cathy</td>
+    <td>Cirad</td>
+    <td>cathy.grevesse@cirad.fr</td>
+  </tr>
+  <tr>
+    <td>GRUWÉ</td>
+    <td>Elisabeth</td>
+    <td>ULB</td>
+    <td>elisabeth.gruwe@ulb.be</td>
+  </tr>
+  <tr>
+    <td>GUILLAMON</td>
+    <td>François</td>
+    <td>UMONS</td>
+    <td>francois.guillamon@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>GYSEN</td>
+    <td>Julie</td>
+    <td>HELMo</td>
+    <td>j.gysen@helmo.be</td>
+  </tr>
+  <tr>
+    <td>HAEBERLI</td>
+    <td>Philippe</td>
+    <td>Université de Genève</td>
+    <td>philippe.haeberli@unige.ch</td>
+  </tr>
+  <tr>
+    <td>HALOUANNE</td>
+    <td>Zouina</td>
+    <td>Université de Bouira</td>
+    <td>zouina.halouane@yahoo.fr</td>
+  </tr>
+  <tr>
+    <td>HERSANT</td>
+    <td>Yaël</td>
+    <td>CNRS</td>
+    <td>yael.hersant@uca.fr</td>
+  </tr>
+  <tr>
+    <td>HERVIEU</td>
+    <td>Clémence</td>
+    <td>Université de Montréal</td>
+    <td>clemence.hervieu@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>HILALI</td>
+    <td>M'Feddal</td>
+    <td>Université Internationale de Rabat Technopolis Rabat-Shore Rocade Rabat-Salé</td>
+    <td>mfeddal.hilali@uir.ac.ma</td>
+  </tr>
+  <tr>
+    <td>JACQUES</td>
+    <td>Fabienne</td>
+    <td>W-B E</td>
+    <td>fabienne.jacques@cfwb.be</td>
+  </tr>
+  <tr>
+    <td>JANSSENS</td>
+    <td>Sabine</td>
+    <td>HELMo Campus Guillemins</td>
+    <td>s.janssens@helmo.be</td>
+  </tr>
+  <tr>
+    <td>JAROSZEWSKI</td>
+    <td>Eva</td>
+    <td>AEQES</td>
+    <td>eva.jaroszewski@aeqes.be</td>
+  </tr>
+  <tr>
+    <td>JOMPHE</td>
+    <td>Claudine</td>
+    <td>Université de Montréal</td>
+    <td>claudine.jomphe@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>JOSSE</td>
+    <td>Cécile</td>
+    <td>HEPH Condorcet</td>
+    <td>cecile.josse@condorcet.be</td>
+  </tr>
+  <tr>
+    <td>KESTERMANS</td>
+    <td>Adrien</td>
+    <td>EAFC Uccle</td>
+    <td>adrien.kestermans@iepscf-uccle.be</td>
+  </tr>
+  <tr>
+    <td>L'HOMME</td>
+    <td>Marie-Claude</td>
+    <td>Université de Montréal</td>
+    <td>mc.lhomme@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>LABEL-RICHARDSON</td>
+    <td>Alain</td>
+    <td>INRAE</td>
+    <td>alain.label@inrae.fr</td>
+  </tr>
+  <tr>
+    <td>LACROIX</td>
+    <td>Josée</td>
+    <td>Université du Québec en Abitibi-Témiscamingue</td>
+    <td>josee.lacroix@uqat.ca</td>
+  </tr>
+  <tr>
+    <td>LAFLEUR</td>
+    <td>Isabelle</td>
+    <td>Université de Montréal</td>
+    <td>isabelle.lafleur.1@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>LECROART</td>
+    <td>Isabelle</td>
+    <td>UCLouvain</td>
+    <td>isabelle.lecroart@uclouvain.be</td>
+  </tr>
+  <tr>
+    <td>LEVASSEUR</td>
+    <td>Caroline</td>
+    <td>Université de Montréal</td>
+    <td>caroline.levasseur.1@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>LUDWIG</td>
+    <td>Maïté</td>
+    <td>Université de Strasbourg - IUT Robert Schuman</td>
+    <td>maite.ludwig@unistra.fr</td>
+  </tr>
+  <tr>
+    <td>MAGDELAINE</td>
+    <td>Arnold</td>
+    <td>Université de Nantes</td>
+    <td>arnold.magdelaine@univ-nantes.fr</td>
+  </tr>
+  <tr>
+    <td>MANNISI</td>
+    <td>Ornella</td>
+    <td>HELMo</td>
+    <td>o.mannisi@helmo.be</td>
+  </tr>
+  <tr>
+    <td>MARTIN</td>
+    <td>Caroline</td>
+    <td>INRAE</td>
+    <td>caroline.martin@inra.fr</td>
+  </tr>
+  <tr>
+    <td>MARTINEZ</td>
+    <td>Claudia</td>
+    <td>Commission d'évaluation de l'enseignement collégial</td>
+    <td>claudia.martinez@ceec.gouv.qc.ca</td>
+  </tr>
+  <tr>
+    <td>MATHY</td>
+    <td>Arnaud</td>
+    <td>CPEONS</td>
+    <td>mathy.arnaud@gmail.com</td>
+  </tr>
+  <tr>
+    <td>MAUXION</td>
+    <td>Jehanne</td>
+    <td>INRAE</td>
+    <td>jehanne.mauxion@inrae.fr</td>
+  </tr>
+  <tr>
+    <td>MIALON</td>
+    <td>Cathy</td>
+    <td>Université Rennes 2</td>
+    <td>cathy.mialon@univ-rennes2.fr</td>
+  </tr>
+  <tr>
+    <td>MOGHAIZEL</td>
+    <td>Nada</td>
+    <td>Universite Saint Joseph de Beyrouth</td>
+    <td>nada.moghaizel-nasr@usj.edu.lb</td>
+  </tr>
+  <tr>
+    <td>MOREAU</td>
+    <td>Isabelle</td>
+    <td>Université de Sherbrooke</td>
+    <td>isabelle.moreau2@usherbrooke.ca</td>
+  </tr>
+  <tr>
+    <td>MORIN</td>
+    <td>Pascale</td>
+    <td>CIRAD</td>
+    <td>pascale.morin@cirad.fr</td>
+  </tr>
+  <tr>
+    <td>MÜHLE</td>
+    <td>Alexandra</td>
+    <td>Université de Genève, Pôle de Soutien à l'enseignement et l'apprentissage</td>
+    <td>alexandra.muhle@unige.ch</td>
+  </tr>
+  <tr>
+    <td>NAMOTTE</td>
+    <td>Vincent</td>
+    <td>Haute école de la ville de liège</td>
+    <td>vincent.namotte@hel.be</td>
+  </tr>
+  <tr>
+    <td>NAVARRE</td>
+    <td>Sylvie</td>
+    <td>Haute Ecole de Namur-Liège-Luxembourg (Henallux)</td>
+    <td>sylvie.navarre@henallux.be</td>
+  </tr>
+  <tr>
+    <td>NDIAYE</td>
+    <td>Ndeye Massata</td>
+    <td>Université Virtuelle du Sénégal</td>
+    <td>ndeyemassata.ndiaye@uvs.edu.sn</td>
+  </tr>
+  <tr>
+    <td>NÉLIAS</td>
+    <td>Thibault</td>
+    <td>Université de Nantes</td>
+    <td>thibault.nelias@univ-nantes.fr</td>
+  </tr>
+  <tr>
+    <td>NOËL</td>
+    <td>Laurence</td>
+    <td>Haute Ecole de la ville de Liège (HEL)</td>
+    <td>laurence.noel@hel.be</td>
+  </tr>
+  <tr>
+    <td>ONGUN</td>
+    <td>Nazmi</td>
+    <td>Haute Ecole de la ville de Liège</td>
+    <td>nazmi.ongun@hel.be</td>
+  </tr>
+  <tr>
+    <td>PARMENTIER</td>
+    <td>Philippe</td>
+    <td>Université Catholique de Louvain</td>
+    <td>philippe.parmentier@uclouvain.be</td>
+  </tr>
+  <tr>
+    <td>PARMENTIER</td>
+    <td>Romain</td>
+    <td>Agence pour l'évaluation de la qualité de l'enseignement supérieur (AEQES)</td>
+    <td>romain.parmentier@aeqes.be</td>
+  </tr>
+  <tr>
+    <td>PEETERS</td>
+    <td>Agnès</td>
+    <td>HE2B</td>
+    <td>apeeters@he2b.be</td>
+  </tr>
+  <tr>
+    <td>PERRET-MOUSSART</td>
+    <td>Véronique</td>
+    <td>Université Rennes 2</td>
+    <td>veronique.perret-moussart@univ-rennes2.fr</td>
+  </tr>
+  <tr>
+    <td>PESENTI</td>
+    <td>Barbara</td>
+    <td>UMONS</td>
+    <td>barbara.pesenti@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>PHILIPPART</td>
+    <td>Anne-Joëlle</td>
+    <td>Université de Liège et AEQES, présidence du Comité de Gestion</td>
+    <td>aj.philippart@uliege.be</td>
+  </tr>
+  <tr>
+    <td>PITZ</td>
+    <td>Clarence</td>
+    <td>Segec</td>
+    <td>clarence.pitz@segec.be</td>
+  </tr>
+  <tr>
+    <td>PLUVINAGE</td>
+    <td>Dominique</td>
+    <td>Haute Ecole Léonard de Vinci</td>
+    <td>dominique.pluvinage@vinci.be</td>
+  </tr>
+  <tr>
+    <td>POULIQUEN</td>
+    <td>Isabelle</td>
+    <td>Aix Marseille Université</td>
+    <td>i.pouliquen@univ-amu.fr</td>
+  </tr>
+  <tr>
+    <td>QUALITÉ HERS</td>
+    <td>Luc Canautte</td>
+    <td>HERS</td>
+    <td>qualite@hers.be</td>
+  </tr>
+  <tr>
+    <td>QUOIDBACH</td>
+    <td>Katty</td>
+    <td>FELSI - ESA</td>
+    <td>kattyquoi@hotmail.com</td>
+  </tr>
+  <tr>
+    <td>RAMOS DIAZ</td>
+    <td>Olivia</td>
+    <td>Université Saint-Louis - Bruxelles</td>
+    <td>olivia.ramos-diaz@usaintlouis.be</td>
+  </tr>
+  <tr>
+    <td>RAZALI</td>
+    <td>Wahiba</td>
+    <td>INSA de Toulouse</td>
+    <td>wahiba@insa-toulouse.fr</td>
+  </tr>
+  <tr>
+    <td>RIAT</td>
+    <td>François</td>
+    <td>HEP-BEJUNE</td>
+    <td>francois.riat@hep-bejune.ch</td>
+  </tr>
+  <tr>
+    <td>RICHARD</td>
+    <td>Clément</td>
+    <td>Université de Genève</td>
+    <td>clement-alexis.richard@unige.ch</td>
+  </tr>
+  <tr>
+    <td>ROGISTER</td>
+    <td>Denis</td>
+    <td>HELMo</td>
+    <td>d.rogister@helmo.be</td>
+  </tr>
+  <tr>
+    <td>RONZE</td>
+    <td>Didier</td>
+    <td>Université Claude Bernard Lyon 1 - IUT Lyon 1</td>
+    <td>didier.ronze@univ-lyon1.fr</td>
+  </tr>
+  <tr>
+    <td>ROTONDI</td>
+    <td>Irène</td>
+    <td>Université de Genève</td>
+    <td>irene.rotondi@unige.ch</td>
+  </tr>
+  <tr>
+    <td>ROUSSEAU</td>
+    <td>Denis</td>
+    <td>Commission d'évaluation de l'enseignement collégial</td>
+    <td>nadine.desjardins@ceec.gouv.qc.ca</td>
+  </tr>
+  <tr>
+    <td>RUWET</td>
+    <td>Marie</td>
+    <td>UCLouvain</td>
+    <td>marie.ruwet@uclouvain.be</td>
+  </tr>
+  <tr>
+    <td>SCHMIT</td>
+    <td>Nathalie</td>
+    <td>EAFC sud-Luxembourg</td>
+    <td>nathalie.schmit@staff.promsoc-arlon.be</td>
+  </tr>
+  <tr>
+    <td>SERET</td>
+    <td>Marie-Line</td>
+    <td>AEQES</td>
+    <td>marie-line.seret@aeqes.be</td>
+  </tr>
+  <tr>
+    <td>SOETEWEY</td>
+    <td>Sabine</td>
+    <td>UMONS</td>
+    <td>sabine.soetewey@umons.ac.be</td>
+  </tr>
+  <tr>
+    <td>STULEMEYER</td>
+    <td>Aurélie</td>
+    <td>USL-B</td>
+    <td>aurelie.stulemeyer@usaintlouis.be</td>
+  </tr>
+  <tr>
+    <td>TADAJEU KENFACK</td>
+    <td>Ulrich</td>
+    <td>Institut de la Francophonie pour la Gouvernance Universitaire (IFGU) de l'Agence Universitaire de la Francophonie (AUF)</td>
+    <td>ulrich.tadajeu@auf.org</td>
+  </tr>
+  <tr>
+    <td>THOUARD</td>
+    <td>Jean-Philippe</td>
+    <td>Agence universitaire de la Francophonie</td>
+    <td>jean-philippe.thouard@auf.org</td>
+  </tr>
+  <tr>
+    <td>TREMBLAY</td>
+    <td>Chantale</td>
+    <td>Université de Sherbrooke</td>
+    <td>chantale.tremblay@usherbrooke.ca</td>
+  </tr>
+  <tr>
+    <td>TUTAK</td>
+    <td>Alizée</td>
+    <td>HEH</td>
+    <td>alizee.tutak@heh.be</td>
+  </tr>
+  <tr>
+    <td>UYTTEBROUCK</td>
+    <td>Eric</td>
+    <td>ULB</td>
+    <td>eric.uyttebrouck@ulb.be</td>
+  </tr>
+  <tr>
+    <td>VAILLANCOURT</td>
+    <td>Samuel</td>
+    <td>Université de Montréal</td>
+    <td>samuel.vaillancourt@umontreal.ca</td>
+  </tr>
+  <tr>
+    <td>VALIERE</td>
+    <td>Nathalie</td>
+    <td>Université Toulouse Jean-Jaurès</td>
+    <td>nathalie.valiere@univ-tlse2.fr</td>
+  </tr>
+  <tr>
+    <td>VALIERE</td>
+    <td>Nathalie</td>
+    <td>HEP Vaud</td>
+    <td>nathalie.valiere@hepl.ch</td>
+  </tr>
+  <tr>
+    <td>VALIORGUE</td>
+    <td>Pierre</td>
+    <td>Université Lyon 1 - IUT</td>
+    <td>pierre.valiorgue@univ-lyon1.fr</td>
+  </tr>
+  <tr>
+    <td>VAN DER LINDEN</td>
+    <td>Jan</td>
+    <td>ULB</td>
+    <td>jan.van.der.linden@ulb.be</td>
+  </tr>
+  <tr>
+    <td>VAN LOON</td>
+    <td>Karin</td>
+    <td>Haute Ecole Bruxelles-Brabant</td>
+    <td>kvanloon@he2b.be</td>
+  </tr>
+  <tr>
+    <td>VERMOTE</td>
+    <td>Alexis</td>
+    <td>AEQES</td>
+    <td>alexis.vermote@aeqes.be</td>
+  </tr>
+  <tr>
+    <td>VEROLLET</td>
+    <td>Emilie</td>
+    <td>Université de Franche-Comté</td>
+    <td>emilie.verollet@univ-fcomte.fr</td>
+  </tr>
+  <tr>
+    <td>VIALLON</td>
+    <td>François-Xavier</td>
+    <td>Haute école fédérale en formation professionnelle</td>
+    <td>francois-xavier.viallon@ehb.swiss</td>
+  </tr>
+  <tr>
+    <td>WARNIER</td>
+    <td>Léticia</td>
+    <td>UCLouvain</td>
+    <td>leticia.warnier@uclouvain.be</td>
+  </tr>
+  <tr>
+    <td>ZANDECKI</td>
+    <td>Nathalie</td>
+    <td>IPLT</td>
+    <td>nathaliezandecki@gmail.com</td>
+  </tr>
+  <tr>
+    <td>ZUPPINGER</td>
+    <td>Bernard</td>
+    <td>Agence Universitaire de la Francophonie (AUF)</td>
+    <td>bernard.zuppinger@auf.org</td>
+  </tr>
+</tbody>
+</table>
