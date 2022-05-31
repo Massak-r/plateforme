@@ -549,9 +549,6 @@ textarea {
 
 /*------------ FORM WARNINGS & ALERTS ------------*/
 
-.w-form-done {
-   text-align: left;
-}
 
 .alert div {
     display: inline-block;
@@ -644,11 +641,6 @@ textarea {
 
 /*------------ CHECKBOX & RADIO ------------*/
 
-.w-checkbox, .w-radio {
-    display: block;
-    margin-bottom: 0px;
-    padding-left: 0px;
-}
 
 input[type=checkbox], input[type=radio] {
     display: none;
